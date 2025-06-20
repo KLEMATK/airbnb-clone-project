@@ -1,2 +1,5 @@
 # airbnb-clone-project
-SCALABLE WORK FORCE
+            “Project Roles and Responsibilities.”
+           Project Manager, Frontend Developers, Backend Developers, Designers,
+           QA/Testers, DevOps Engineers, Product Owner, and Scrum Master
+
