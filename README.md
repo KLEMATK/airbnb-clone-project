@@ -8,3 +8,5 @@
  Navbar, Property Card, and Footer
 
 “Team Roles”.
+
+“Technology Stack”.
